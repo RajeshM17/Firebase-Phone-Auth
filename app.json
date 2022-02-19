@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.abhishekpatel.firebasephoneauth"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Expo native app to firebase phone auth with recaptcha"
   }
 }
